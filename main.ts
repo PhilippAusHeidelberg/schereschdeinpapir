@@ -21,11 +21,11 @@ input.onButtonPressed(Button.A, function () {
     }
     if (philipp == 3) {
         basic.showLeds(`
-            # # # # #
-            # # # # #
-            # # # # #
-            # # # # #
-            # # # # #
+            # # . . #
+            # # . # .
+            . . # . .
+            # # . # .
+            # # . . #
             `)
     }
 })
